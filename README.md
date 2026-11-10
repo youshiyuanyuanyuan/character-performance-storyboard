@@ -6,7 +6,7 @@
 把「人物创建」与「叙事表演剧本分镜」两套 Cursor / Grok Bot skill 打包开源。
 
 > **状态：仓库内 skills 以本机完整版为准（含模块6）**  
-> GitHub Release：https://github.com/64r68fbc47-create/character-performance-storyboard/releases/tag/v0.1.0  
+> GitHub Release：https://github.com/youshiyuanyuanyuan/character-performance-storyboard/releases/tag/v0.1.0  
 > 来源：本机 `Desktop/原素材/skill/人物创建+叙事表演剧本分镜Skill（完整版）`。`skills/performance-coach/SKILL.md` 为完整版（约 65KB），含模块5、**模块6：角色文档读写与关系演进**、模块7。`skills/character-creator/SKILL.md` 来自本机 `character_create_skill.md`，文档格式与模块6对齐。  
 > **禁止再用 bot 现装精简版覆盖**（约 39KB / 38900 字节，只有模块1–4）。精简版不是准。
 
